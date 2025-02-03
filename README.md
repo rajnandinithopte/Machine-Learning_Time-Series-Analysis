@@ -1,6 +1,7 @@
 # Machine Learning: Time Series Analysis
 # 🔷 Time Series Classification and Logistic Regression
 
+## 🔶 Overview
 This project involves **time series classification** using data from the **AReM dataset**, which consists of **sensor readings from human activities**. The main tasks include **feature extraction, binary classification using logistic regression, and multi-class classification using penalized regression techniques**.
 
 ---
