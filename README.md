@@ -86,3 +86,7 @@ This project involves **time series classification** using data from the **AReM 
   - **Gaussian priors**
   - **Multinomial priors**
 - Determined the **best classification method** for this problem.
+
+---
+## 📌 **Note**
+This repository contains a **Jupyter Notebook** detailing each step, along with **results and visualizations**.
